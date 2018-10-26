@@ -1,2 +1,3 @@
-# Safest-Area-Maryland 
-Visualization of the Crime data in the Maryland and finding the safest area
+# Safest-Area-Maryland (R programming)
+
+Visualization of the Crime data in Maryland to find the safest area

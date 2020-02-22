@@ -5,7 +5,7 @@
 
 
 #######################
-## Loading libraries ##
+## Loading libraries #
 #######################
 
 library(tidyverse)
@@ -126,7 +126,7 @@ crime.plot <-
 crime.plot
 
 ###################################
-### Maping data for Takoma Park ###
+### Maping data for Takoma Park ##
 ###################################
 
 geocode("Takoma Park")
